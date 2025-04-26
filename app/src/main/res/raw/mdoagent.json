@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mdoagent-yrqi",
+  "private_key_id": "a6de21db4f4b53fd6a19be3f285f6d84a1fd84f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDJXj/q9ovnYS1\n5gOTx7saQ1qFnGP5inw3WDWGFoWUZ3MZYjnFZ+/6Lo49oFGqpcrpNCO15Lo7Y6Va\ngIHQGeNY1dNumIRS/Z8aornryW4+7MNAM8k1WSZ33FgOs9TkTkGQpi/AoGApHcB5\nOpkaYIDvgh6BtI7G3L82DI8Q2tV5x7WAeZsjNMMsgac99wKJWb/Vl14iSDeHDL3Z\nCMP8zzvJ7/ME1YoNCTF02gkHpmBfR8YafDj6VxtNMyyye5IRTczzskdYg2K9joJg\nr+PlA4DCCX84u1eZM14XdhgcD5anERS8uCoIZpsMmRQvA9Vbjh7Nq3vtUAkVTHzw\nKG4zAnCjAgMBAAECggEALbGNCwTA4oxWIkd5B/XpFCW4QPfVGv23xzfC1KJaZdzx\nQPzUfSowsVqMWNa8uKH4iLF6OSGVD8nt0mqrusANEWSEDO3ucgZL5m867IBubZJ/\nx304vGKjFMbF4a9vBoRias3W+Zoz2fzK8Dft2JTHLA3COem+0samiS/YogAzoz9c\nzBNIme4u089ZM40lYeOgSz2I8+p3OYGt4/bGjGOAzDzA9yW9m6noahKgMFbvZN7K\nHCfVRF+cHCvtXcDX7WFMug2HJ8mNGS+aZjiOxWa0QmMYv59Uh3Vq/376SXiyjg5Z\n3i4Z3keJ7dIbwZCvrIS++/zJbtFNw00PXw4eyypBjQKBgQDixclUZ42HhxzsKNTA\nG2FRoRldueE3kS+Wcoyu1oKF+sz/tEy41NbiJviAL4F2vbAVuhDQ+FIixVJ1+CI6\nHe02/vKUCh0VJjkELOu6OSnQAFVli8atDbWd9fQBlW04dih6DnRzmdsNOffYyjRy\ninodJhiswBKXrS2Lep402kaBXwKBgQDcTDMYy18m/kyqjUzALlfzcP5rawGTpnlP\ntgPtZIYx1sBNz1vrre6x1LUliNNZMJUx/dgX7+vJ+22LzRJOi+JW/aDCaCumTeUE\nymA10RghS3G8Qj7PBCOqi5eP1156eMtx0zEJLbgEepIxB/cPpsXbjm/YIiiwUHn8\nDxOhmT6DPQKBgEyOs0pgb0Ja1ePQYQq985voRDUFJMhqpmMnJuF7n7L1mbGVv/UC\nPc05lNlJsG5S2ZhsKXMy8h+0+ALFk2CFa+kOJvzdcTYLomILfEVxOPF0u1+90YPo\nxfCe8RJ7zNSr5zxVlvDT90S+1jKFCTHGGDWw/9GKQnycRWz6J2D2c6kHAoGBAMUc\nTQ/fUCkkmlZ0DXtbPAivToWwff2tk5fV5VewfT30x6YXZkjPHObyyo5mCa0hAi1z\n0rlAS7ozBIZ1G+85zHBHiWLJMF0iD0ulBEbC6xNHXOG0aFx0eLEtK5RhgMCWenpD\nG/n5dVBUl5/VX6MadqiHnt1FWyC/MRZuKwOJiVyFAoGBAJHodA2wc4KbHJQ5lLwW\noKBMc6ZsA0lQYGLcUK9o/YTP4VlpNU4KjGHoMCmYO/ORalrg6BozXHraZIr5VGkM\nHIZilE/8cBiDIOZcXctFhXNkGziGCsywdY2Lu2yfumyrYIMtq8vvnoeoDUr2eLQQ\nzGyrCP58YrfAFjeMrxOweCSx\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-android-client@mdoagent-yrqi.iam.gserviceaccount.com",
+  "client_id": "113257157588888588232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-android-client%40mdoagent-yrqi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
